@@ -1,4 +1,4 @@
-# 🚀 Abdulla Mulla — Developer Portfolio
+# 🚀 Abrar Mulla — Developer Portfolio
 
 [![GitHub followers](https://img.shields.io/github/followers/abmulla2005?label=Follow&style=social)](https://github.com/abmulla2005)
 
