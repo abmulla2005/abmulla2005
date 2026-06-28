@@ -1,8 +1,6 @@
 # 🚀 Abdulla Mulla — Developer Portfolio
 
-![Profile Views](https://komarev.com/ghpvc/?username=abmulla2005&color=blueviolet&style=flat-square)
 [![GitHub followers](https://img.shields.io/github/followers/abmulla2005?label=Follow&style=social)](https://github.com/abmulla2005)
-[![Twitter Follow](https://img.shields.io/twitter/follow/yourhandle?label=Follow&style=social)](https://twitter.com/yourhandle)
 
 > *"Code is poetry written in logic"*
 
@@ -99,9 +97,8 @@ Hey there! I'm **Abdulla Mulla**, a passionate developer on a journey to build i
 ## 🤝 Let's Connect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio-link.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abrar-mulla-326778306)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abmulla2005@gmail.com)
 
 ---
 
